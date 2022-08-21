@@ -1,0 +1,24 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "sond2",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sond2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OneChampIvern/learning-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OneChampIvern/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/OneChampIvern/learning-nodejs#readme"
+}
